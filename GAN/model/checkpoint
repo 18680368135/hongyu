@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\wanghongyu\\Downloads\\TensorFlowOnSpark\\examples\\GAN\\./model/model.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\wanghongyu\\Downloads\\TensorFlowOnSpark\\examples\\GAN\\./model/model.ckpt"
